@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [OpenBook](https://github.com/mohamdzezo/WebProjects/tree/main/OpenBook)
 
-- 🌱 I’m currently learning **Full-stack Web Development || Software Architecture || Design Patterns **
+- 🌱 I’m currently learning **Full-stack Web Development || Software Architecture || Design Patterns**
 
 - :space_invader: I’m looking forward to collaborate on [Django](https://github.com/django/django)
 
