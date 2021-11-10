@@ -12,7 +12,7 @@
 
 - 💻 I mainly code in **Python and C++**
 
-- 💬 Ask me about **Backend Development || Problem solving || NLP **
+- 💬 Ask me about **Backend Development || Problem solving || NLP**
 
 - 😄 Pronouns: **_he/him_**  
 
